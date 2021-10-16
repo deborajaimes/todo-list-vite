@@ -69,7 +69,7 @@ export default {
   },
   data() {
     return {
-      titulo: "TodoList Vite",
+      titulo: "TodoList Vite T35",
       tarefa: {},
       tarefas: [],
     };
